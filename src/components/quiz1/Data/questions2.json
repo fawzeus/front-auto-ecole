@@ -1,0 +1,344 @@
+[
+  { "category": "Outils utiles",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Ce téléphone peut être utilisé ",
+    "correct_answer": "en panne",
+    "incorrect_answers": [
+      "pour un besoin personnel",
+      "informer un médecin"
+    ],
+    "source":"imagesquiz2/1.png"
+  },{
+    "category": "panneaux de circulation",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Le sens du stationnement change tous les jours",
+    "correct_answer": "Entre huit heures et demie et neuf heures du soir",
+    "incorrect_answers": [
+      "Entre huit et huit heures trente du soir",
+      "Entre neuf et neuf heures du soir"
+      
+      
+    ],
+    "source":"imagesquiz2/2.png"
+  },
+  {
+    "category": "panneaux de circulation",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Appliquer la limitation de vitesse",
+    "correct_answer": "immédiatement",
+    "incorrect_answers": [
+      "à 50 mètres"
+      ,"à 100 mètres"
+    ],
+    "source":"imagesquiz2/3.png"
+  },{
+    "category": "panneaux de circulation",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Ce signe indique",
+    "correct_answer": "Fin de l'interdiction de contournement",
+    "incorrect_answers": [
+      "Prévention de contournement",
+      "La fin d'un temple à sens unique"
+      
+    ],
+    "source":"imagesquiz2/4.png"
+  },
+  {
+    "category": "Secourisme",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Il est nécessaire de retirer d'urgence les blessés de la voiture si",
+    "correct_answer": "Le patient était en grand danger",
+    "incorrect_answers": [
+      "Le patient était inconscient",
+      "Un saignement s'est produit"
+      
+    ],
+    "source":"imagesquiz2/5.png"
+  }
+  ,
+  {
+    "category": "Habitude Routière",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Pour éviter d'éblouir je peux",
+    "correct_answer": "Utilisation de stimuli lumineux",
+    "incorrect_answers": [
+      "allumer les feux de route",
+      "Allumez les feux de brouillard avant"
+      
+    ],
+    "source":"imagesquiz2/6.png"
+  },
+  {
+    "category": "Maintenance de véhicule",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Il est recommandé d'augmenter la pression des pneus avant de partir pour un long voyage",
+    "correct_answer": "Oui",
+    "incorrect_answers": [
+      "Non"
+      
+    ],
+    "source":"imagesquiz2/7.png"
+  }
+  ,
+    { "category": "Règles routières",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Lorsque je conduis derrière ce véhicule à une vitesse de 110 km/h, je dois laisser une distance de sécurité d'au moins",
+    "correct_answer": "33 mètres",
+    "incorrect_answers": [
+      "50 mètres","66 mètres","30 mètres"
+    ],
+    "source":"imagesquiz2/8.png"
+  },
+{ "category": "Habitude routière",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Je peux me tenir derrière le wagon gris",
+"correct_answer": "Non",
+"incorrect_answers": ["Oui"
+  
+],
+"source":"imagesquiz2/9.png"
+},
+{ "category": "Véhicules",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "Avec une longue pente et pour éviter un échauffement rapide des freins",
+  "correct_answer": "j'utilise le frein moteur",
+  "incorrect_answers": [
+    "je freine par intermittence",
+    "j'utilise le frein a main"
+    
+  ],
+  "source":"imagesquiz2/10.png"}
+  ,
+  { "category": "Conducteur",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Le refus de se soumettre à la procédure d'épreuve d'alcool entraîne",
+    "correct_answer": "Arrêtez immédiatement le véhicule",
+    "incorrect_answers": ["Mettre le chariot dans l'entrepôt municipal",
+      "Annulation d'un permis de conduire"
+      
+    ],
+    "source":"imagesquiz2/11.png"
+  },
+    { "category": "Panneau de circulation",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "après cette balise",
+      "correct_answer": " je laisse la priorité à droite",
+      "incorrect_answers": [
+        "je laisserai la priorité à gauche" ,
+        "je passerai sans priorité"
+      ],
+      "source":"imagesquiz2/12.png"
+    }
+      ,
+{ "category": "Feux de véhicule",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "Je peux continuer à utiliser les feux de route",
+  "correct_answer": "Non",
+  "incorrect_answers": [
+    "Oui"
+    
+  ],
+  "source":"imagesquiz2/13.png"
+},
+{ "category": "Panneau de circulation",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "Ce signe fait référence à",
+  "correct_answer": "arrêt de bus",
+  "incorrect_answers": [
+    " Voie réservée aux bus",
+    "Voie dédiée aux voitures lentes"
+  ],
+  "source":"imagesquiz2/14.png"
+},
+{ "category": "Panneau de circulation",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "Le début de cette marque est la vitesse maximale autorisée",
+  "correct_answer": "90 km/h",
+  "incorrect_answers": [
+    "50 km/h",
+    "70 km/h"
+
+  ],
+  "source":"imagesquiz2/15.png"
+},
+{ "category": "Habitude routière",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Lors d'une longue distance, il est recommandé de s'arrêter après un certain temps",
+  "correct_answer": "2 heures",
+  "incorrect_answers": [
+    "4 heures",
+    "5 heures",
+    "6 heures"
+
+
+  ],
+  "source":"imagesquiz2/16.png"
+},
+{ "category": "feux de route",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "Un conducteur qui roule sans feux allumés quand il y a du brouillard,commet",
+  "correct_answer": "infraction grave",
+  "incorrect_answers": [
+    "Infraction ordinaire",
+    "délit"
+    
+  ],
+  "source":"imagesquiz2/17.png"
+},{ "category": "Feux de route",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "La lumière passe du vert à l'orange",
+  "correct_answer": "arrêter",
+  "incorrect_answers": [
+    "je laisse la priorité à droite",
+    "commander avec prudence"
+  ],
+  "source":"imagesquiz2/18.png"
+},
+{ "category": "Habitude routière",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Pour dépasser la distance la plus éloignée d'au moins",
+  "correct_answer": "1 mètre",
+  "incorrect_answers": [
+    "1.5 mètres",
+    "2 mètres"
+  ],
+  "source":"imagesquiz2/19.png"
+},
+{ "category": "Plaque de véhicule",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Les camions-citernes transportant des matières dangereuses doivent porter une plaque orange",
+  "correct_answer": "De devant et de derrière",
+  "incorrect_answers": [
+    "avant seulement",
+    "par derrière seulement"
+  ],
+  "source":"imagesquiz2/20.png"
+},{ "category": "Panneau de la route",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Ce panneau annonce un chemin spécifique à",
+  "correct_answer": "vélos",
+  "incorrect_answers": [
+    "motos moyennes",
+    "grosses motos"
+  ],
+  "source":"imagesquiz2/21.png"
+},
+
+{ "category": "habitude routière",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "Si je dépasse cette limite de vitesse de 30 km/h, je serai soumis à",
+  "correct_answer": "péché financier",
+  "incorrect_answers": [
+    "3 points de remise","Ligne financière et déduction de 3 points"
+  ],
+  "source":"imagesquiz2/22.png"
+},
+{ "category": "Véhicule",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Pour maintenir la batterie en état de charge, le liquide doit être changé régulièrement",
+  "correct_answer": "Non",
+  "incorrect_answers": [
+    "Oui"
+  ],
+  "source":"imagesquiz2/23.png"
+},
+{ "category": "Situation Routière",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "Lorsque la vitesse augmente, la distance de sécurité augmente",
+  "correct_answer": "Oui",
+  "incorrect_answers": [
+    "Non"
+  ],
+  "source":"imagesquiz2/24.png"
+},
+{ "category": "Panneau de la route",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "300 mètres plus loin je partirai",
+  "correct_answer": "route prioritaire",
+  "incorrect_answers": [
+    "Le Golan change de direction",
+    "cours du temps "
+  ],
+  "source":"imagesquiz2/25.png"
+},
+{ "category": "Véhicule",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Un véhicule endommagé dans un accident doit être évacué du temple et de ses environs au plus tard",
+  "correct_answer": "7 jours",
+  "incorrect_answers": [
+    "5 jours",
+    "3 jours"
+  ],
+  "source":"imagesquiz2/26.png"
+},
+{ "category": "Situation routière",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "Sur cette route étroite je dois faciliter le passage des poids lourds",
+  "correct_answer": "Oui",
+  "incorrect_answers": [
+    "Non"
+  ],
+  "source":"imagesquiz2/27.png"
+},
+{
+   "category": "Situation routière",
+   "type": "multiple",
+   "difficulty": "hard",
+   "question": "Pour tourner à gauche",
+   "correct_answer": "j'utilise la voie de gauche",
+   "incorrect_answers": [
+     "j'utilise la voie de droite",
+     "reste comme ça"
+   ],
+   "source":"imagesquiz2/28.png"
+ },
+ { "category": "Indication routière",
+ "type": "multiple",
+ "difficulty": "hard",
+ "question": "C'est l'intersection de la route avec une voie ferrée à l'intérieur",
+ "correct_answer": "Plus qu'un chemin de fer",
+ "incorrect_answers": [
+   "rail simple"
+ ],
+ "source":"imagesquiz2/29.png"
+}
+,
+ { "category": "Indication routière",
+ "type": "multiple",
+ "difficulty": "easy",
+ "question": "Tourner à gauche",
+ "correct_answer": "Commander",
+ "incorrect_answers": [
+   "arrêter"
+  ],
+ "source":"imagesquiz2/30.png"
+}
+]
+  

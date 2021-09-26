@@ -1,0 +1,62 @@
+[{
+    "Plaque": " Y تونس X",
+    "Model": "Peugeot 108",
+    "Color": "Regional Paradigm Technician",
+    "Insurance date": "13/11/2022",
+    "status": "Active",
+   
+    "Technical visit date": "13/11/2022",
+    "button": "id: 'click-me-button',render: ({ row }) => (<button onClick={(e) => this.handleButtonClick(e, row)}>Click Me</button>)"
+    
+  },
+  {
+    "Plaque": " Y تونس X",
+    "Model": "Peugeot 108",
+    "Color": "Product 24/12/2020 Officer",
+    "Insurance date": "13/11/2022",
+    "status": "Inactive",
+    
+    "Technical visit date": "13/11/2022"
+   
+  },
+  {
+    "Plaque": " Y تونس X",
+    "Model": "Golf Mk5 ",
+    "Color": "Forward Response Developer",
+    "Insurance date": "24/12/2020",
+    "status": "Active",
+    
+    "Technical visit date": "13/11/2022"
+   
+  },
+  {
+    "Plaque": " Y تونس X",
+    "Model": "Golf Mk5 ",
+    "Color": "Central  ManTechnical visit dater",
+    "Insurance date": "24/12/2020",
+    "status": "Offline",
+    
+    "Technical visit date": "13/11/2022"
+    
+  },
+  {
+    "Plaque": "Y تونس X",
+    "Model": "VW Gol BX, silber, 1984",
+    "Color": "Lean Implementation Liaison",
+    "Insurance date": "24/12/2020",
+    "status": "Inactive",
+    
+    "Technical visit date": "13/11/2022"
+    
+  },
+  {
+    "Plaque": "Y تونس X",
+    "Model": "Peugeot 504 Break, metallic-blau, 1976",
+    "Color": "Internal Applications Engineer",
+    "Insurance date": "24/12/2020",
+    "status": "Active",
+    
+    "Technical visit date": "24/12/2020"
+  }
+]
+    
