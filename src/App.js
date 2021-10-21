@@ -34,7 +34,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
 });
-
+/**/
 const App = () => {
   const[price,setPrice]=useState('0')
   const[pack,setPack]=useState('')
