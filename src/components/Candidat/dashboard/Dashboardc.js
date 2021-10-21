@@ -107,6 +107,17 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function Dashboardc() {
+   /****************** */
+   const logout = async () => {
+    await fetch('http://localhost:8000/user/logout', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        credentials: 'include',
+    });
+    console.log("out");
+
+  }
+/************************** */
   const classes = useStyles();
   const [open, setOpen] = React.useState(true);
   const handleDrawerOpen = () => {
@@ -115,6 +126,8 @@ export default function Dashboardc() {
   const handleDrawerClose = () => {
     setOpen(false);
   };
+
+ 
   const fixedHeightPaper = clsx(classes.paper, classes.fixedHeight);
 
   return (
@@ -135,9 +148,10 @@ export default function Dashboardc() {
             Profile
           </Typography>
          
-          <IconButton color="inherit" component={RouterLink} to='/' >
-              < SettingsPowerIcon />
+          <IconButton color="inherit" onClick={logout} component={RouterLink} to='/'>
+              < SettingsPowerIcon  />
           </IconButton>
+         
         </Toolbar>
       </AppBar>
       <Drawer

@@ -19,7 +19,7 @@ import MenuIcon from '@material-ui/icons/Menu';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import NotificationsIcon from '@material-ui/icons/Notifications';
 import { mainListItems, secondaryListItems,thirdListItems,fourthListItems } from './listItems';
-
+import axios from "axios";
 import SettingsPowerIcon from '@material-ui/icons/SettingsPower';
 import Profile from '../Candidat/profile/userprofile/Profile'
 
@@ -114,6 +114,8 @@ export default function Dashboardc() {
   const handleDrawerClose = () => {
     setOpen(false);
   };
+
+  
   const fixedHeightPaper = clsx(classes.paper, classes.fixedHeight);
 
   return (
@@ -134,8 +136,8 @@ export default function Dashboardc() {
             Profile
           </Typography>
          
-          <IconButton color="inherit" component={RouterLink} to='/' >
-              < SettingsPowerIcon />
+          <IconButton color="inherit"   component={RouterLink} to='/' >
+              < SettingsPowerIcon  />
           </IconButton>
         </Toolbar>
       </AppBar>
